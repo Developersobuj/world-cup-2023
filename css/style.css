@@ -88,6 +88,7 @@ a {
     transition: ease 5s;
 }
 
+
 /*-----------------------------
 hero section
 ------------------------------
@@ -129,6 +130,15 @@ hero section
 
 .active-button {
     background-color: #DD0000;
+    color: #ffffff;
+}
+
+.aside button:hover {
+    background-color: #DD0000;
+    color: #ffffff;
+}
+
+.aside button:hover a {
     color: #ffffff;
 }
 
