@@ -298,6 +298,7 @@ footer {
 
     .hero .aside {
         background-color: #ffffff;
+        align-content: center;
     }
 
     .hero .right_div {
